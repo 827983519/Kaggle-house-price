@@ -9,5 +9,5 @@ Because there are lots of missing data, so I try to find the relation between fe
 
 Then I use gradient boosting regression, random forest and svm to predict the price. Maybe next time I can try the lightGBM and Xgboost.
 
-The score is not high. But it is a good start.
+The score is 0.13248. Not very high, but it is a good start.
 
